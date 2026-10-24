@@ -1,0 +1,6 @@
+{
+  "name": "Дача — Календар заходів та бронювання простору",
+  "description": "Нативний вебзастосунок для перегляду розкладу подій, бронювання простору Дача, модерації заявок та взаємодії спільноти.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
